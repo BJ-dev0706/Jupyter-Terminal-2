@@ -1,6 +1,6 @@
 # Menaki
 <div>
-    <video src="./public/assets/video.mp4" autoplay></video>
+    <video src="./public/assets/video.mp4" autoplay width="100%"></video>
 </div>
 Somewhere deep in the Japanese Mountains, War, stricken cats Ascend, Stone Stars to seek Aid at a shrine. And their prayers are about to be answered.
 
